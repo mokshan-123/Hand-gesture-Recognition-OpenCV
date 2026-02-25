@@ -1,4 +1,4 @@
-# Hand Gesture Recognition
+# Hand Gesture Recognition (Volume control and Number Detection)
 
 A collection of Python projects using **Mediapipe (0.10.5)** and **OpenCV** for real-time hand tracking, gesture recognition, volume control, and finger counting.
 
