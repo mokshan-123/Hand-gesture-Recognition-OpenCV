@@ -29,11 +29,13 @@ A collection of Python projects using **Mediapipe (0.10.5)** and **OpenCV** for 
    cd HandGesture-Recognition
 
 2.Create a virtual environment
+
   python -m venv venv
   venv\Scripts\activate   # Windows
   source venv/bin/activate # macOS/Linux
 
 3.Install dependencies
+
   pip install -r requirements.txt
 
 4.Run any script
