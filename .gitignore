@@ -1,0 +1,37 @@
+# Virtual Environment
+venv/
+env/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+.env.local
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS generated files
+.DS_Store          # macOS
+Thumbs.db          # Windows
+desktop.ini
+
+# Mediapipe / OpenCV temp files
+*.log
+*.tmp
+
+# Distribution / build
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebooks (if used)
+.ipynb_checkpoints/
